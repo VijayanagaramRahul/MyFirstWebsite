@@ -1,0 +1,20 @@
+body,html{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color:rgb(0,0,0,0.8);
+}
+.backgroundimg{
+    background-image:url("register.jpg");
+    background-size:cover;
+    background-position:center ;
+    background-repeat:no-repeat;
+    height:115vh;
+    width:110%;
+}
+.f{/*it is for form*/
+ color:white;
+    
+}
+
