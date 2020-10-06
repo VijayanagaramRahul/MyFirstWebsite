@@ -2,7 +2,7 @@
 
 session_start();
 
-//$con = mysqli_connect("localhost","id7275604_userdetails","csedepartment","id7275604_user") or die("Connection Error");
+//$con = mysqli_connect("localhost","username","password","databasename") or die("Connection Error");
 
 if(!isset($_SESSION['name']) && !isset($_SESSION['email']) && !isset($_SESSION['pass']))
 {
